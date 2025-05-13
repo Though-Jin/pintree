@@ -207,13 +207,6 @@
           },
           {
             "type": "link",
-            "addDate": 1690966811153,
-            "title": "USB Host - ESP32-S3 - — ESP-IDF 编程指南 latest 文档",
-            "icon": "https://logo.clearbit.com/docs.espressif.com",
-            "url": "https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s3/api-reference/peripherals/usb_host.html"
-          },
-          {
-            "type": "link",
             "addDate": 1692839205939,
             "title": "ESP32 论坛",
             "icon": "https://logo.clearbit.com/www.esp32.com",
@@ -256,13 +249,6 @@
           },
           {
             "type": "link",
-            "addDate": 1708847953865,
-            "title": "存储 API - ESP32-S3 - — ESP-IDF 编程指南 latest 文档",
-            "icon": "https://logo.clearbit.com/docs.espressif.com",
-            "url": "https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s3/api-reference/storage/index.html"
-          },
-          {
-            "type": "link",
             "addDate": 1715844403235,
             "title": "ESP Component Registry",
             "icon": "https://logo.clearbit.com/components.espressif.com",
@@ -274,6 +260,41 @@
             "title": "电车兔",
             "icon": "https://logo.clearbit.com/author.baidu.com",
             "url": "https://author.baidu.com/home/1772106518746206"
+          },
+          {
+            "type": "link",
+            "addDate": 1728723441245,
+            "title": "电子元器件在线 | 查找电子零件 | Arrow.com",
+            "icon": "https://logo.clearbit.com/www.arrow.com",
+            "url": "https://www.arrow.com/zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1730937212598,
+            "title": "EDA365电子论坛-电子工程师硬件研发开发网站-电源电路原理图设计技术社区-PCB Layout论坛",
+            "icon": "https://logo.clearbit.com/www.eda365.com",
+            "url": "https://www.eda365.com/forum.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1730937263048,
+            "title": "ARM论坛_逆天PCB论坛_电子工程师的网络家园",
+            "icon": "https://logo.clearbit.com/bbs.ntpcb.com",
+            "url": "https://bbs.ntpcb.com/forum-25-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730937561109,
+            "title": "硬十",
+            "icon": "https://logo.clearbit.com/www.hw100k.com",
+            "url": "https://www.hw100k.com/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1742884479874,
+            "title": "全志在线开发者社区 - 在线文档",
+            "icon": "https://logo.clearbit.com/www.aw-ol.com",
+            "url": "https://www.aw-ol.com/docs"
           }
         ]
       },
@@ -407,6 +428,69 @@
             "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
             "icon": "https://logo.clearbit.com/www.52pojie.cn",
             "url": "https://www.52pojie.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721375257433,
+            "title": "websim.ai",
+            "icon": "https://logo.clearbit.com/websim.ai",
+            "url": "https://websim.ai/?ref=yigekuang.cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1721452891755,
+            "title": "AGE动漫 - 在线动漫观看",
+            "icon": "https://logo.clearbit.com/www.agedm.org",
+            "url": "https://www.agedm.org/?utm_source=cq&utm_campaign=www.agefans.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723886800651,
+            "title": "克隆窝 | 助互联网玩家寻找每一条道路",
+            "icon": "https://logo.clearbit.com/www.uy5.net",
+            "url": "https://www.uy5.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735117133289,
+            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+            "icon": "https://logo.clearbit.com/zh.z-lib.su",
+            "url": "https://zh.z-lib.su/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737006798406,
+            "title": "终极导航-优质网站网址导航大全",
+            "icon": "https://logo.clearbit.com/www.zjnav.com",
+            "url": "https://www.zjnav.com/?from=yigekuang.cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1737356957060,
+            "title": "黑域基地 - 良心软件的栖息之地！",
+            "icon": "https://logo.clearbit.com/www.hybase.com",
+            "url": "https://www.hybase.com/?ref=zjnav.cc"
+          },
+          {
+            "type": "link",
+            "addDate": 1696509907144,
+            "title": "简视频-致力打造好用的视频创作导航",
+            "icon": "https://logo.clearbit.com/www.aewz.com",
+            "url": "https://www.aewz.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1747031495205,
+            "title": "Anime-动漫",
+            "icon": "https://logo.clearbit.com/animekai.to",
+            "url": "https://animekai.to/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1747031868638,
+            "title": "合集网 | 信息资源大全",
+            "icon": "https://logo.clearbit.com/233heji.com",
+            "url": "https://233heji.com/"
           }
         ]
       },
@@ -466,13 +550,6 @@
           },
           {
             "type": "link",
-            "addDate": 1721175864861,
-            "title": "C 标准库 – 参考手册 | 菜鸟教程",
-            "icon": "https://logo.clearbit.com/www.runoob.com",
-            "url": "https://www.runoob.com/cprogramming/c-standard-library.html"
-          },
-          {
-            "type": "link",
             "addDate": 1686817180358,
             "title": "DeepL Translate: The world's most accurate translator",
             "icon": "https://logo.clearbit.com/www.deepl.com",
@@ -508,13 +585,6 @@
           },
           {
             "type": "link",
-            "addDate": 1696509907144,
-            "title": "简视频-致力打造好用的视频创作导航",
-            "icon": "https://logo.clearbit.com/www.aewz.com",
-            "url": "https://www.aewz.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1697437774244,
             "title": "文心一言",
             "icon": "https://logo.clearbit.com/yiyan.baidu.com",
@@ -543,13 +613,6 @@
           },
           {
             "type": "link",
-            "addDate": 1694072781908,
-            "title": "USB初学 -- 入门篇 （USB基础知识速览） - STM32H7 - 硬汉嵌入式论坛 - Powered by Discuz!",
-            "icon": "https://logo.clearbit.com/www.armbbs.cn",
-            "url": "https://www.armbbs.cn/forum.php?mod=viewthread&tid=100687"
-          },
-          {
-            "type": "link",
             "addDate": 1708737901815,
             "title": "未命名表单-迅捷画图-在线流程图",
             "icon": "https://logo.clearbit.com/www.liuchengtu.com",
@@ -568,15 +631,99 @@
             "title": "Paul Falstad",
             "icon": "https://logo.clearbit.com/www.falstad.com",
             "url": "https://www.falstad.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729469645108,
+            "title": "半导小芯-芯片查询工具_芯片替代查询_数据手册查询_规格书查询_datasheet查询_IC查询",
+            "icon": "https://logo.clearbit.com/www.semiee.com",
+            "url": "https://www.semiee.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732099298095,
+            "title": "EC800N-CN | QuecPython",
+            "icon": "https://logo.clearbit.com/python.quectel.com",
+            "url": "https://python.quectel.com/products/ec800n-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1734751897776,
+            "title": "尔湾云",
+            "icon": "https://logo.clearbit.com/erwan43.pw",
+            "url": "https://erwan43.pw/auth/register"
+          },
+          {
+            "type": "link",
+            "addDate": 1735085954484,
+            "title": "最好的美国VPN推荐(2024) - 翻墙派",
+            "icon": "https://logo.clearbit.com/fanqiangpai.com",
+            "url": "https://fanqiangpai.com/best-vpn-usa/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736211023171,
+            "title": "DeepSeek | 深度求索",
+            "icon": "https://logo.clearbit.com/www.deepseek.com",
+            "url": "https://www.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744424638296,
+            "title": "网易邮箱6.0版",
+            "icon": "https://logo.clearbit.com/mail.163.com",
+            "url": "https://mail.163.com/js6/main.jsp?sid=CLdRrlSXeEazzDbAShXXjmqwWXDSajAn&df=unireg#module=welcome.WelcomeModule%7C%7B%7D"
+          },
+          {
+            "type": "link",
+            "addDate": 1745651416100,
+            "title": "一键抠图_在线抠图_图片去除背景 | RemovePhotos",
+            "icon": "https://logo.clearbit.com/remove.photos",
+            "url": "https://remove.photos/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745746340826,
+            "title": "Photopea | Online Photo Editor",
+            "icon": "https://logo.clearbit.com/www.photopea.com",
+            "url": "https://www.photopea.com/"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1700272703544,
-        "title": "[SOLIDWORKS学习地图]去哪学？怎么学？点击开启学习之路！ - Feishu Docs",
-        "icon": "https://logo.clearbit.com/ifcski218x.feishu.cn",
-        "url": "https://ifcski218x.feishu.cn/docx/WbhBdLwxYo06CUx4kCxcFTWbnyb"
+        "type": "folder",
+        "addDate": 1729297445936,
+        "title": "学习网站",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1700272703544,
+            "title": "[SOLIDWORKS学习地图]去哪学？怎么学？点击开启学习之路！ - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ifcski218x.feishu.cn",
+            "url": "https://ifcski218x.feishu.cn/docx/WbhBdLwxYo06CUx4kCxcFTWbnyb"
+          },
+          {
+            "type": "link",
+            "addDate": 1729297457394,
+            "title": "玩转C语言和数据结构",
+            "icon": "https://logo.clearbit.com/xiexuewu.github.io",
+            "url": "https://xiexuewu.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1694072781908,
+            "title": "USB初学 -- 入门篇 （USB基础知识速览） - STM32H7 - 硬汉嵌入式论坛 - Powered by Discuz!",
+            "icon": "https://logo.clearbit.com/www.armbbs.cn",
+            "url": "https://www.armbbs.cn/forum.php?mod=viewthread&tid=100687"
+          },
+          {
+            "type": "link",
+            "addDate": 1721175864861,
+            "title": "C 标准库 – 参考手册 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/cprogramming/c-standard-library.html"
+          }
+        ]
       }
     ]
   }
